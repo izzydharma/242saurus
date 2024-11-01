@@ -21,3 +21,19 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+izzydharma:
+  name: Izzy Dharma
+  title: izzydharma
+  url: https://github.com/izzydharma
+  image_url: https://github.com/izzydharma.png
+  socials:
+    github: izzydharma
+
+githubhiseka:
+  name: Davin Awuy
+  title: davinawuy
+  url: https://github.com/davinawuy
+  image_url: https://github.com/davinawuy.png
+  socials:
+    github: davinawuy
